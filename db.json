@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "fname": "Alyza",
+      "lname": "Valdez",
+      "address": "Philippines",
+      "gender": "Female",
+      "email": "aly@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "Nikka",
+      "lname": "Anonas",
+      "address": "California",
+      "gender": "Female",
+      "email": "nikka@gmail.com",
+      "id": 4
+    }
+  ]
+}
